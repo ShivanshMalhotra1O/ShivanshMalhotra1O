@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/61261654/114380542-d3314f80-9ba7-11eb-847c-31ba132fb4b8.png)](https://github.com/ShivanshMalhotra1O)
 
 <h1 align="center">Hi 👋, I'm Shivansh Malhotra</h1>
-<h3 align="center">Frontend Developer and Ux Designer</h3>
+<h3 align="center">Frontend Developer and Ui/Ux Designer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.graphicpear.com/wp-content/uploads/2016/11/galshir-1.gif" style="border-radius:2px">
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 💬 Ask me about **Html , Css and Ux**
+- 💬 Ask me about **Html , Css , Js and Ui/Ux**
 
 - 📫 How to reach me **malhotra.shivansh@outlook.com**
 
