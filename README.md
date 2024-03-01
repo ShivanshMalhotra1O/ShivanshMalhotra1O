@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanshmalhotra1o&label=Profile%20views&color=0e75b6&style=flat" alt="shivanshmalhotra1o" /> </p>
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **Android Development**
 
-- 💬 Ask me about **Html , Css , Js and Ui/Ux**
+- 💬 Ask me about **Html , Css , Js , Android  and Ui/Ux**
 
 - 📫 How to reach me **malhotra.shivansh@outlook.com**
 
