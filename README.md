@@ -1,13 +1,13 @@
 [![MasterHead](https://user-images.githubusercontent.com/61261654/114380542-d3314f80-9ba7-11eb-847c-31ba132fb4b8.png)](https://github.com/ShivanshMalhotra1O)
 
 <h1 align="center">Hi 👋, I'm Shivansh Malhotra</h1>
-<h3 align="center">Frontend Developer and Ui/Ux Designer</h3>
+<h3 align="center">Cloud Engineer and Ui/Ux Designer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.graphicpear.com/wp-content/uploads/2016/11/galshir-1.gif" style="border-radius:2px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanshmalhotra1o&label=Profile%20views&color=0e75b6&style=flat" alt="shivanshmalhotra1o" /> </p>
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **Html , Css , Js , Android  and Ui/Ux**
 
