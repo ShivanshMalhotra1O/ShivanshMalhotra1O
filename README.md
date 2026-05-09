@@ -8,11 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=shivanshmalhotra1o&style=for-the-badge&color=302b63&label=PROFILE+VIEWS"/>
 </p>
 
-<br/>
-
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr>
-<td width="52%" valign="top">
+---
 
 ### 👋 About me
 
@@ -20,22 +16,10 @@ AI Engineer specialising in production-grade LLM systems — RAG pipelines, mult
 
 I own AI features end-to-end: **prompt design → system integration → evaluation → deployment.**
 
-- 🤖 Multi-agent systems with LangChain & CrewAI
-- 🔍 RAG pipelines with ChromaDB & Pinecone
-- ☁️ Cloud-native deployments on AWS
-- 🧪 AI output evaluation & reliability engineering
-
-</td>
-<td width="4%"></td>
-<td width="44%" valign="top">
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=shivanshmalhotra1o&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
+- 🤖 Multi-agent systems with LangChain & CrewAI  
+- 🔍 RAG pipelines with semantic chunking & observability  
+- ☁️ Cloud-native deployments on AWS  
+- 🧪 AI output evaluation & reliability engineering  
 
 ---
 
@@ -60,36 +44,19 @@ I own AI features end-to-end: **prompt design → system integration → evaluat
   <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white"/>
 </p>
 
-<br/>
-
 ### 🛠️ Backend · Cloud · Frontend
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,react,js,ts,html,css,docker,aws,terraform,git,github,figma,pytorch,tensorflow&perline=16"/>
 </p>
 
-<br/>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-streak-stats.demolab.com?user=ShivanshMalhotra1O&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa"/>
-  &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivanshmalhotra1o&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa"/>
-</p>
-
-<br/>
-
----
 
 ### 🎓 Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Agentic_AI_Engineering-Udemy_2024-A435F0?style=flat-square&logo=udemy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agentic_AI_Engineering-Udemy_2025-A435F0?style=flat-square&logo=udemy&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-Certified_2024-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-Certified_2026-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Google_UX_Design-Coursera_2023-4285F4?style=flat-square&logo=google&logoColor=white"/>
 </p>
